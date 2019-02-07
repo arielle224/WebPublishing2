@@ -1,7 +1,7 @@
 html{ background-color: purple;
 }
-.box{
-  backround-color:black;
+div .box{
+  backround-color: black;
   border="2px white dotted";
   height: 300px;
   weight: 400px;
