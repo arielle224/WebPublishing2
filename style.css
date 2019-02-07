@@ -1,6 +1,6 @@
 html{ background-color: purple;
 }
-div{
+.box{
   background-color: black;
   border: 2px white dotted;
   height: 300px;
