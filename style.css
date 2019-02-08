@@ -1,8 +1,23 @@
-html{ background-color: purple;
+html{
+	background-color: hotpink;
+}
+
+h1{
+	font-family: sans-serif;
+	color: white;
+	font-size: 3em;
+	text-align: center;
 }
 .box{
-  background-color: black;
-  border: 2px white dotted;
-  height: 300px;
-  width: 400px;
+	background-color: black;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	border: 5px aqua dotted;
 }
+
+div:hover{background-image:url(catimage.jpg) 
+}
+
+div:hover{ background-position: center;
+background-repeat: no-repeat;}
