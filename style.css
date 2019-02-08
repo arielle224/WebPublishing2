@@ -1,13 +1,14 @@
-html{ background-color: hotpink;
+html { background-color: hotpink;
 }
 
-h1{ font-family: sans-serif;
+h1 { font-family: sans-serif;
 	color: white;
 	font-size: 3em;
 	text-align: center;
 }
-.box{ background-color: black;
+.box { background-color: black;
 	width: 400px;
 	height: 300px;
 	margin: auto;
-	border: 5px aqua dotted;}
+	border: 5px aqua dotted;
+}
