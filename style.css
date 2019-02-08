@@ -10,10 +10,4 @@ h1{ font-family: sans-serif;
 	width: 400px;
 	height: 300px;
 	margin: auto;
-	border: 5px aqua dotted;
-}
-div:hover{ background-image:url(catimage.jpg) 
-}
-
-div:hover{ background-position: center;
-background-repeat: no-repeat;}
+	border: 5px aqua dotted;}
