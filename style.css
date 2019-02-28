@@ -12,3 +12,7 @@ h1{ font-family: sans-serif;
 	margin: auto;
 	border: 5px aqua dotted;
 }
+
+.box:hover {
+		background-image: url(https://images.pexels.com/photos/62321/kitten-cat-fluffy-cat-cute-62321.jpeg?cs=srgb&dl=animal-blanket-cat-62321.jpg&fm=jpg);
+}
