@@ -17,4 +17,5 @@ h1{ font-family: sans-serif;
 }
 
 background-image{ background-repeat: no-repeat;
+	background-position: center;
 }
