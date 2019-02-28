@@ -14,4 +14,5 @@ h1{ font-family: sans-serif;
 }
 
 .box:hover { background-image: url('http://www.clipartkid.com/images/348/kitty-hugs-cute-kittens-icon-10796547-fanpop-eCm6WW-clipart.gif');
+background-repeat: no-repeat;
 }
